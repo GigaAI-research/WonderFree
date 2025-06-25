@@ -1,6 +1,6 @@
 <div align="center">   
   
-# WonderTurbo:  Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration
+# WonderFree:  Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration
 </div>
 
  
