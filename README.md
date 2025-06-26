@@ -4,5 +4,5 @@
 </div>
 
  
-## [Project Page](https://wonder-free.github.io) | [Paper]()
+## [Project Page](https://wonder-free.github.io) | [Paper](https://arxiv.org/abs/2506.20590)
 
